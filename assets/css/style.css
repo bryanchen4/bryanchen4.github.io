@@ -23,7 +23,11 @@ body {
 	margin-left: 100px; */
 	width: 250px;
 	margin-bottom: 20px;
+}
 
+#frog:hover{
+	transform: rotate(15deg);
+	cursor: pointer;
 }
 
 #welcome1 {
@@ -55,6 +59,8 @@ body {
 
 #welcome3:hover {
 	cursor: pointer;
+	text-decoration: underline;
+	font-weight: 900;
 }
 
 
